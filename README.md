@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 - 📍 **Based in:** London, United Kingdom.
-- 🎓 **Education:** BSc (Hons) Computer Science (2:1) from the University of Hertfordshire.
+- 🎓 **Education:** BSc (Hons) Computer Science from the University of Hertfordshire.
 - 🔭 **Current Focus:** Engineering **RAG (Retrieval-Augmented Generation)** pipelines and **Intrusion Detection Systems** using Deep Learning.
 - 💡 **What I do:** I bridge the gap between complex AI models and user-friendly applications, from legal tech assistants to audio processing bots.
 - 🎯 **Goal:** To apply my technical and problem-solving skills to real-world industry challenges.
