@@ -3,10 +3,10 @@
   <h1>👋 Hi, I'm <b>Sajjaduddin Syed</b></h1>
   <h3>Software Engineer | AI & Backend Developer</h3>
   <h4>Specializing in Agentic AI, RAG Pipelines, and Microservices</h4>
-  <!-- <a href="https://www.linkedin.com/in/sajjaduddin-syed/">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sajjaduddin-syed">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a> -->
-  <style>
+  </a>
+  <!-- <style>
         .libutton {
           display: flex;
           flex-direction: column;
@@ -22,8 +22,8 @@
           background-color: #0A66C2;
           font-family: "SF Pro Text", Helvetica, sans-serif;
         }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sajjaduddin-syed" target="_blank">Follow on LinkedIn</a>
+      </style> -->
+<!-- <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sajjaduddin-syed" target="_blank">Follow on LinkedIn</a> -->
 
 </div>
 
