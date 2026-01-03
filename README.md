@@ -3,7 +3,7 @@
   <h1>👋 Hi, I'm <b>Sajjaduddin Syed</b></h1>
   <h3>Software Engineer | AI & Backend Developer</h3>
   <h4>Specializing in Agentic AI, RAG Pipelines, and Microservices</h4>
-  <a href="www.linkedin.com/in/sajjaduddin-syed">
+  <a href="https://www.linkedin.com/in/sajjaduddin-syed">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <!-- <style>
